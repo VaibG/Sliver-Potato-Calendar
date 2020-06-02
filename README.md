@@ -1,6 +1,7 @@
 # Sliver-Potato-Calendar
 ## Description
 If you have ever visited in Berkeley, you are probably familiar with Sliver, a pizza restaurant that serves a single-type vegetarian pizza every day. This means every day consists of a new pizza with different ingredients. However, there is one unorthodox ingredient that makes people fall in love with this restaurant and that is the Roasted Yukon Gold Potatoes. You must be thinking, potatoes on pizza?!? ew. But trust me, it's really good!  
+
 In an effort to utilize my skills to automate different parts of my life, I created this script which scrapes the pizza flavors for the week using Beautiful Soup and adds events to my Google Calendar when the pizza contains Roasted Yukon Gold Potatoes using the Google Calendar API. This script runs twice a week using a cronjob and will automatically update my calendar with an event, without requiring authorization. 
 
 ## Usage
